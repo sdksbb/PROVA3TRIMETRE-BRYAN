@@ -1,3 +1,19 @@
 body{
     background-color: blue;
 }
+
+
+
+
+nav a {
+
+    margin-top: 5px;
+    color: yellow;
+    justify-content: center;
+
+}
+h1{
+    .tarde{
+        font-style: italic;
+    }
+}
